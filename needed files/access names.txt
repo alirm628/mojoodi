@@ -1,0 +1,7 @@
+admin : دسترسی کامل
+edit name : ادیت اسم
+edit code : ادیت کد کالا
+edit amount : ادیت موجودی
+delete : حذف کالا
+view : دیدن اطلاعات
+add : افزودن کالای جدید
